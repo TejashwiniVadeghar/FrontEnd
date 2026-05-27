@@ -9,3 +9,5 @@ The src attribute is used to specify the location for that image.
 For image elements, it's good practice to include another attribute called the alt attribute.
 # body Element: 
 This element is used to represent the content for the HTML document.
+#section Elements: 
+This element is used to divide up content into smaller sections.
