@@ -7,4 +7,5 @@ Paragraph Elements: This is used for paragraphs on a web page.
 img Elements: The img element is used to add images to the web page. 
 The src attribute is used to specify the location for that image. 
 For image elements, it's good practice to include another attribute called the alt attribute.
-# body Element: This element is used to represent the content for the HTML document.
+# body Element: 
+This element is used to represent the content for the HTML document.
