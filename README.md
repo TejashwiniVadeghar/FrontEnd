@@ -23,7 +23,7 @@ link Element: This element is used to link to external resources like stylesheet
 The rel attribute is used to specify the relationship between the linked resource and the HTML document. The href attribute is used to specify the location of the URL for the external resource.
 
 script Element: This element is used to embed executable code.
-#Boilerplate and Encoding
+# Boilerplate and Encoding
 HTML boilerplate: This is a boilerplate that includes the basic structure and essential elements every HTML document needs.
 DOCTYPE: This is used to tell browsers which version of HTML you're using.
 html Element: This represents the top level element or the root of an HTML document. To specify the language for the document, you should use the lang attribute.
@@ -32,4 +32,6 @@ meta Elements: These elements represent your site's metadata. These element have
 title Element: This element is used to set the text that appears in the browser tab or window.
 UTF-8 character encoding: UTF-8, or UCS Transformation Format 8, is a standardized character encoding widely used on the web. Character encoding is the method computers use to store characters as data. The charset attribute is used inside of a meta element to set the character encoding to UTF-8.
 
-# Description lists are made up of a list of terms and details. The dt element represents the description term, while the dd element represents the description detail.
+# Description lists 
+Description Lists are made up of a list of terms and details. 
+The dt element represents the description term, while the dd element represents the description detail.
