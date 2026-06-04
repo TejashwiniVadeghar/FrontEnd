@@ -31,3 +31,5 @@ head Element: The head section contains important meta data which is behind-the-
 meta Elements: These elements represent your site's metadata. These element have details about things like character encoding, and how websites like Twitter should preview your page's link and more.
 title Element: This element is used to set the text that appears in the browser tab or window.
 UTF-8 character encoding: UTF-8, or UCS Transformation Format 8, is a standardized character encoding widely used on the web. Character encoding is the method computers use to store characters as data. The charset attribute is used inside of a meta element to set the character encoding to UTF-8.
+
+# Description lists are made up of a list of terms and details. The dt element represents the description term, while the dd element represents the description detail.
