@@ -1,6 +1,6 @@
 # JAVASCRIPT BASICS
 # STRING CONCATENATION
- + operator is best for simple concatenation, especially when you need to combine a few strings or variables.
+The + operator is best for simple concatenation, especially when you need to combine a few strings or variables.
 
 The += operator is useful when building up a string step by step or appending new content to an existing string variable.
 
