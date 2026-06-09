@@ -11,3 +11,10 @@ let str2 = 'World';
 
 let result = str1.concat(' ', str2); 
 console.log(result); // Hello World
+
+# console.log()
+It's mostly used by developers to debug and inspect code while working on their programs.
+
+You can use console.log() to log text or variables to the console and ensure your code is running correctly.
+
+
